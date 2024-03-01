@@ -1,0 +1,38 @@
+body {
+    background-image: url(/Users/claire.liechti/repos/claires-recipes/img/background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no repeat;
+    background-size: cover;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+}
+h1 {
+    font-size: 80px;
+    width: 100%;
+}
+img {
+    height: 500px;
+    width: auto;
+    border: 8px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h2 {
+    font-size: 30px;
+}
+.unordered-lists  {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align:left;
+}
+ol {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align:left;
+}
